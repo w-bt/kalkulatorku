@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\kang ady\\AndroidStudioProjects\\KalkulatorKu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\kang ady\\AndroidStudioProjects\\KalkulatorKu\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kang ady\\AndroidStudioProjects\\KalkulatorKu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\kalkulatorku.png",
+        "source": "C:\\Users\\kang ady\\AndroidStudioProjects\\KalkulatorKu\\app\\src\\main\\res\\mipmap-hdpi\\kalkulatorku.png"
+    },
+    {
+        "merged": "C:\\Users\\kang ady\\AndroidStudioProjects\\KalkulatorKu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\kang ady\\AndroidStudioProjects\\KalkulatorKu\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

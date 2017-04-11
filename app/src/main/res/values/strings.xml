@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KalkulatorKu</string>
+    <string name="action_settings">Settings</string>
+    <string name="lt"><![CDATA[<]]></string>
+</resources>

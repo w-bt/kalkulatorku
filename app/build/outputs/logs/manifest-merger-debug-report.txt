@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml:3:5-55
+		INJECTED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kang ady\.android\build-cache\1012739767339b852137aeeddfaa987a3ff6acdc\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\kang ady\.android\build-cache\e5a733da473b471c48d330e38fb5915f22eb0fff\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kang ady\.android\build-cache\7b59bf18c379f2655b27537ef04a567ae299c034\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kang ady\.android\build-cache\c77e5f53ef28d10b020a0a76b08e32e3a3c8dcfc\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kang ady\.android\build-cache\30f7b15aad147a02e401fa7893f99652ddeeadb2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\kang ady\.android\build-cache\b64e35a4a854b3718c99d8882d8a1eb281d245fd\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kang ady\.android\build-cache\2599b2c838c2ebc176c34da2d63568a6f47683d6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kang ady\.android\build-cache\367a98742f8b36b40203a0f6727b5b45182f5469\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\kang ady\.android\build-cache\0312e096fd9bc3dc9f5b6e94eae0ec0b63c3204c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\kang ady\.android\build-cache\436d7c0042151d1588fa0bbf29c81fee9cd5cbb4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kang ady\.android\build-cache\dab3ed47ea95680e2cb20fbb2b946a768bcc0475\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kang ady\.android\build-cache\378c1e81f530f7af9afeeb43e777986f1f77ab4d\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml:9:9-49
+	android:allowBackup
+		ADDED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml:7:9-44
+	android:theme
+		ADDED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml:11:9-40
+activity#id.widhianbramantya.android.kalkulatorku.SplashScreen
+ADDED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml:19:27-74
+activity#id.widhianbramantya.android.kalkulatorku.Kalkulator
+ADDED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml:22:9-26:20
+	android:label
+		ADDED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml:24:13-45
+	android:theme
+		ADDED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml:23:13-39
+uses-sdk
+INJECTED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kang ady\.android\build-cache\1012739767339b852137aeeddfaa987a3ff6acdc\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\kang ady\.android\build-cache\e5a733da473b471c48d330e38fb5915f22eb0fff\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kang ady\.android\build-cache\7b59bf18c379f2655b27537ef04a567ae299c034\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kang ady\.android\build-cache\c77e5f53ef28d10b020a0a76b08e32e3a3c8dcfc\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kang ady\.android\build-cache\30f7b15aad147a02e401fa7893f99652ddeeadb2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\kang ady\.android\build-cache\eaf8b58848790d2470f3d5135767ade19a35bc7d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\kang ady\.android\build-cache\b64e35a4a854b3718c99d8882d8a1eb281d245fd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kang ady\.android\build-cache\2599b2c838c2ebc176c34da2d63568a6f47683d6\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kang ady\.android\build-cache\367a98742f8b36b40203a0f6727b5b45182f5469\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\kang ady\.android\build-cache\0312e096fd9bc3dc9f5b6e94eae0ec0b63c3204c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\kang ady\.android\build-cache\436d7c0042151d1588fa0bbf29c81fee9cd5cbb4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kang ady\.android\build-cache\dab3ed47ea95680e2cb20fbb2b946a768bcc0475\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kang ady\.android\build-cache\378c1e81f530f7af9afeeb43e777986f1f77ab4d\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\kang ady\.android\build-cache\e5a733da473b471c48d330e38fb5915f22eb0fff\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kang ady\AndroidStudioProjects\KalkulatorKu\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\kang ady\.android\build-cache\e5a733da473b471c48d330e38fb5915f22eb0fff\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kang ady\.android\build-cache\7b59bf18c379f2655b27537ef04a567ae299c034\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kang ady\.android\build-cache\c77e5f53ef28d10b020a0a76b08e32e3a3c8dcfc\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kang ady\.android\build-cache\30f7b15aad147a02e401fa7893f99652ddeeadb2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\kang ady\.android\build-cache\eaf8b58848790d2470f3d5135767ade19a35bc7d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\kang ady\.android\build-cache\b64e35a4a854b3718c99d8882d8a1eb281d245fd\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kang ady\.android\build-cache\2599b2c838c2ebc176c34da2d63568a6f47683d6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kang ady\.android\build-cache\367a98742f8b36b40203a0f6727b5b45182f5469\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\kang ady\.android\build-cache\0312e096fd9bc3dc9f5b6e94eae0ec0b63c3204c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\kang ady\.android\build-cache\436d7c0042151d1588fa0bbf29c81fee9cd5cbb4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kang ady\.android\build-cache\dab3ed47ea95680e2cb20fbb2b946a768bcc0475\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kang ady\.android\build-cache\378c1e81f530f7af9afeeb43e777986f1f77ab4d\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\kang ady\.android\build-cache\e5a733da473b471c48d330e38fb5915f22eb0fff\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\kang ady\.android\build-cache\e5a733da473b471c48d330e38fb5915f22eb0fff\output\AndroidManifest.xml:26:9-47
